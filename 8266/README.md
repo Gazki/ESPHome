@@ -1,4 +1,4 @@
-Set CPU Clock to 160MHz:
+**Set CPU Clock to 160MHz:**
 
 esphome:
   platformio_options:
