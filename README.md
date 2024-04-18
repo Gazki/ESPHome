@@ -1,0 +1,2 @@
+# ESPHome
+Notes about ESPHome
